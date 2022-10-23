@@ -1,5 +1,5 @@
 <?php
-require_once 'function.php';
+
 
 ?>
 <!--    <form action="" method="POST">-->
